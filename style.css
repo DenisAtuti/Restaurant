@@ -29,7 +29,7 @@ html{
     background-color: #000;
     position: fixed;
     top: -14rem;
-    z-index: 100;
+    z-index: 200;
     display: flex;
     justify-content: center;
     align-items: center;
