@@ -102,6 +102,7 @@ html{
     background-color: #000;
     position: absolute;
     top: -15rem;
+    z-index: -100;
     left: calc(50% - 0.15rem);
     box-shadow: .1rem 0 .1rem #000,
 }
